@@ -42,7 +42,7 @@ class _GirisSayfasiState extends State<GirisSayfasi> {
             ),
           ),
           Container(
-            child: 
+            child: Text("deneme"),
           ),
         ],
       ),
